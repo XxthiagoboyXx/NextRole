@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Next Rolê</string>
+    <string name="text_buttom">CLIQUE AQUI</string>
+    <string name="dias_restantes_para_o_role">Dias Restantes Para o Rolê</string>
+    <string name="voce_vai_participar">Você vai participar?</string>
+    <string name="dias">dias</string>
+    <string name="nao_confirmado">Não confirmado</string>
+    <string name="sim">sim</string>
+    <string name="nao">"não"</string>
+</resources>
